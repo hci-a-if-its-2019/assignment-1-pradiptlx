@@ -1,16 +1,89 @@
 # Contextual Inquiry and Analysis
-## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+
+## Anki Description
+
+Anki is an application to help remembering things with flashcard. It is widely distributed to different platform from Desktop Apps (Windows, Linux, Mac) to Mobile Apps (Android and iOS). It is content-agnostice, it means that we can create card with images, videos, audio, and scientific markup with _LaTeX_ based. This application is also _open source_, means that anyone can contribute to development of Anki.
+
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+
+1. Find out what is flashcard and Anki
+2. Find out documentation of Anki
+3. Open Anki and figure it out
+4. Try to explore Anki
+5. Try to create deck and card
+6. Try to use it
+7. Find out what user feel about Anki for using it first time
+
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+
+* He is a student
+* He has experiences using computer and always work with it
+* But he doesn't familiar with flashcard application
+* He never use flashcard as study method
+
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+
+```text
+1. Me: Kamu tau ga sih flashcard itu apa?
+2. User: Tau, jadi flashcard itu ada isinya buat inget sesuatu jadi setiap orang bisa inget suatu hal 
+3. Me: Berarti tau dong flashcard itu apa?
+4. Me: Nah ada aplikasi yang buat desktop juga bisa dan mobile juga bisa seperti Android dan iOS
+5. User: Wah apa tuh?
+6. Me: Namanya Anki, kalo kamu gatau Anki bisa cari di google
+7. (Mencari Anki di google)
+8. Me: Jadi Anki ini benar-benar bisa buat flashcard sendiri
+9. Me: Nah, kamu pernah ga sih belajar pakai flashcard sebelumnya?
+10. User: Enggak.
+11. Me: Misalkan kamu pakai flashcard kamu mau coba Anki ga?
+12. User: Enggak tau belum pernah
+13. Me: Nah, dari dokumentasi ini ada yang kamu bingung ga?
+14. User: Gatau enggak pernah baca dokumentasi
+15. Me: Oh yaudah coba diaplikasinya aja
+16. (Membuka aplikasi Anki)
+17. Me: Jadi ini aplikasinya. Tampilannya seperti ini. Coba explore deh
+18. User: (maximize window Anki) Wah bisa gede
+19. User: Oh jadi ini buat nambah (02:13)
+20. Me: Iya, jadi kalo kamu mau buat card, ini bagian front nya. Front-nya tuh seperti... (02:14)
+21. User: Kata? (Pertanyaan) (02:27)
+22. Me: Nah belakangnya itu jawabannya, biasanya seperti itu. (02:26)
+23. Me: Dan juga ini bisa LaTeX (02:34)
+24. User: Wow (02:36)
+25. Me: Jadi LaTeX kayak kamu bisa buat formula matematika (02:42)
+26. User: Mana formulanya? Ini? Oh bukan. Enggak ah (bingung), oh itu disitu. Wah. Gak ngerti. (02:43)
+27. User: Mana deck-nya? Udah ini doang? Oh study now, hehe (02:58)
+28. User: Trus jawabnya dimana? Gabisa jawab gitu? (03:07)
+29. Me: Jadi jawabnya tuh kayak kamu ngira-ngira gitu (03:11)
+30. User: Oh. Yaudah-yaudah hehe kirain (03:15)
+31. User: (Bingung dengan opsi again). Hah, nol tambah nol tambah dua? (03:19)
+32. Me: Terus diluar dokumentasi ini, ada ga kesulitan apa? Misalkan dalam membuat card atau deck (03:31)
+33. User: Gak nggak jelas sih (03:48)
+34. Me: Sebenarnya bisa sih kamu import dari user lain? (03:53)
+35. User: Hah ini Get Shared atau import? (bingung) (03:59)
+36. Me: Coba saja (04:03)
+37. User: Oh dari sini (04:11)
+38. Me: Nah kamu bisa milih topik apa aja. Bisa kamu cari deh (04:13)
+39. User: Oh tinggal klik aja ya. Mana? Kok ga keluar. Oh ini (04:39)
+40. User: Wah gimana dong, harus digambar? Gabisa digambar Hehe (05:10)
+41. Me: Bukan digambar tapi kamu mengira-ngira (05:14)
+42. User: Wow, bisa di langsung edit juga (05:19)
+43. User: Oh iya apa bedanya, beda good apa nih? Kenapa good? Kenapa ada good-nya? (bingung) (05:41)
+44. Me: Bingung? (05:49)
+45. User: Bingunglah (05:50)
+46. (Mencoba memahami tombol dibawah card)
+47. Me: Nah kan kamu tadi udah buat deck-card, rasanya gimana? Maksudnya pengalaman kamu menggunakan Anki sebagai aplikasi flashcard untuk belajar kamu gimana?  (06:05)
+48. User: Rasanya misterius (06:29)
+49. Me: Kalo untuk tampilannya? (06:42)
+50. User: Tampilannya lebih misterius (06:44)
+```
+
 ## Models and Annotations
+
 ### Artifact Model
+
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Flow Model
+
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
