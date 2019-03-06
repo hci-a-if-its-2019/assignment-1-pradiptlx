@@ -1,8 +1,22 @@
 # Contextual Inquiry and Analysis
 
+## Contents:
+
+* [Description of Anki](#Anki-Description)
+* [Instruction Script](#Instruction-Script)
+* [User Description](#User-Description)
+* [Transcript](#Transcript)
+* [Artifact Model](#Artifact-Model)
+* [Flow Model](#Flow-Model)
+* [Cultural Model](#Cultural-Model)
+* [Do's and Don't's](#Do's-and-Don't's)
+
 ## Anki Description
 
-Anki is an application to help remembering things with flashcard. It is widely distributed to different platform from Desktop Apps (Windows, Linux, Mac) to Mobile Apps (Android and iOS). It is content-agnostice, it means that we can create card with images, videos, audio, and scientific markup with _LaTeX_ based. This application is also _open source_, means that anyone can contribute to development of Anki.
+Anki is an application to help remembering things with flashcard. It is widely distributed to different platform from Desktop Apps (Windows, Linux, Mac) to Mobile Apps (Android and iOS). It is content-agnostice, it means that we can create card with images, videos, audio, and scientific markup with _LaTeX_ based. This application is also _open source_, means that anyone can contribute to development of Anki. The cards are presented using HTML and may include text, images, sounds, videos, and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format.
+
+![Anki-dashboard](images/Anki-dashboard.jpg)
+![Anki-study](images/Anki-study.jpg)
 
 ## Instruction Script
 
@@ -11,8 +25,10 @@ Anki is an application to help remembering things with flashcard. It is widely d
 3. Open Anki and figure it out
 4. Try to explore Anki
 5. Try to create deck and card
-6. Try to use it
-7. Find out what user feel about Anki for using it first time
+6. Find out how to change text format style
+7. Try to use it
+8. Find out what user feel about Anki for using it first time
+9. Try to import deck from other user (from community website)
 
 ## User Description
 
@@ -25,7 +41,7 @@ Anki is an application to help remembering things with flashcard. It is widely d
 
 ```text
 1. Me: Kamu tau ga sih flashcard itu apa?
-2. User: Tau, jadi flashcard itu ada isinya buat inget sesuatu jadi setiap orang bisa inget suatu hal 
+2. User: Tau, jadi flashcard itu ada isinya buat inget sesuatu jadi setiap orang bisa inget suatu hal
 3. Me: Berarti tau dong flashcard itu apa?
 4. Me: Nah ada aplikasi yang buat desktop juga bisa dan mobile juga bisa seperti Android dan iOS
 5. User: Wah apa tuh?
@@ -74,18 +90,24 @@ Anki is an application to help remembering things with flashcard. It is widely d
 48. User: Rasanya misterius (06:29)
 49. Me: Kalo untuk tampilannya? (06:42)
 50. User: Tampilannya lebih misterius (06:44)
+51. Me: Ok, makasih
+52. User: Ok, sama-sama
 ```
 
 ## Models and Annotations
 
 ### Artifact Model
 
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model and Annotation](images/artifact-model-Anki.jpg)
 
 ### Flow Model
 
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](images/flow-model-Anki.jpg)
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+
+![Cultural Model and Annotation](images/cultural-model-Anki.jpg)
+
 ## Do's and Don't's
+
 Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
