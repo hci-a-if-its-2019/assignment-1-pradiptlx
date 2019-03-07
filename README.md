@@ -15,10 +15,21 @@
 
 Anki is an application to help remembering things with flashcard. It is widely distributed to different platform from Desktop Apps (Windows, Linux, Mac) to Mobile Apps (Android and iOS). It is content-agnostice, it means that we can create card with images, videos, audio, and scientific markup with _LaTeX_ based. This application is also _open source_, means that anyone can contribute to development of Anki. The cards are presented using HTML and may include text, images, sounds, videos, and LaTeX equations. The decks of cards, along with the user's statistics, are stored in the open SQLite format.
 
+### Anki's Dasboard
+
 ![Anki-dashboard](images/Anki-dashboard.jpg)
+
+### Anki's Deck
+
 ![Anki-study](images/Anki-study.jpg)
 
+### Anki's Fullscreen Window
+
+![Anki-Fullscreen](images/Anki-fullscreen.jpg)
+
 ## Instruction Script
+
+___
 
 1. Find out what is flashcard and Anki
 2. Find out documentation of Anki
@@ -32,12 +43,17 @@ Anki is an application to help remembering things with flashcard. It is widely d
 
 ## User Description
 
+___
+
 * He is a student
 * He has experiences using computer and always work with it
 * But he doesn't familiar with flashcard application
 * He never use flashcard as study method
 
 ## Transcript
+
+___
+
 
 ```text
 1. Me: Kamu tau ga sih flashcard itu apa?
@@ -90,11 +106,19 @@ Anki is an application to help remembering things with flashcard. It is widely d
 48. User: Rasanya misterius (06:29)
 49. Me: Kalo untuk tampilannya? (06:42)
 50. User: Tampilannya lebih misterius (06:44)
-51. Me: Ok, makasih
-52. User: Ok, sama-sama
+51. Me: Menurut kamu, opini kamu tentang ini untuk mau menggunakan Anki apa? (06:53)
+52. User: Mungkin disamain desainnya lebih diperbagus dan dikurangi beberapa elemen-elemen yang ga perlu(07:04)
+53. (Menunjukkan halaman deck)
+54. User: Terus didepannya ini cuma perlu deck terus tambah aja (Add) (07:14)
+55. User: (Menunjukkan tab)
+56. User: Nah terus ditambah itu bisa tambahin get shared sama import file atau apa, sisanya sih ga terlalu penting (07:18)
+57. Me: Hmm gitu ya. Ok, makasih
+58. User: Ok, sama-sama
 ```
 
 ## Models and Annotations
+
+___
 
 ### Artifact Model
 
@@ -110,4 +134,19 @@ Anki is an application to help remembering things with flashcard. It is widely d
 
 ## Do's and Don't's
 
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+___
+
+### Do
+
+* Include helpful application guide (like a popup after click on button) when application is first opened
+* Responsive layout when window is on maximum scale or minimum scale, so its button didn't overflow.
+* Change tab button (Deck, Card, Browse, Stats) to be more good looking button, not just a button with clickable text design
+* Give more clear information about buttons functionality on _study now_ layout
+* Give more understandable information about cards statistic
+* Make an easier way to change style of card (change format, design, etc.)
+
+### Don't
+
+* Use fixed size window, because when user maximize window, it give a static layout (like a minimum scale window but with bigger scale)
+* Make complex documentation because unexperience user feels to complicated and don't want to read it
+* Combine _Create Deck_ button with _Add_ button (on same fields)
