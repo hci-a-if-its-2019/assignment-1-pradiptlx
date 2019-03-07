@@ -1,6 +1,6 @@
 # Contextual Inquiry and Analysis
 
-## Contents:
+## Contents
 
 * [Description of Anki](#Anki-Description)
 * [Instruction Script](#Instruction-Script)
@@ -45,15 +45,17 @@ ___
 
 ___
 
-* He is a student
+* Male, 20 years old
+* He is Informatics student
 * He has experiences using computer and always work with it
+* Know what flashcard is
 * But he doesn't familiar with flashcard application
 * He never use flashcard as study method
+* Not a person who takes a time to read documentation
 
 ## Transcript
 
 ___
-
 
 ```text
 1. Me: Kamu tau ga sih flashcard itu apa?
