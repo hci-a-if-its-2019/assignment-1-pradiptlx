@@ -17,11 +17,11 @@ Anki is an application to help remembering things with flashcard. It is widely d
 
 ### Anki's Dasboard
 
-![Anki-dashboard](images/Anki-dashboard.jpg)
+![Anki-dashboard](images/Anki-dashboard.JPG)
 
 ### Anki's Deck
 
-![Anki-study](images/Anki-study.jpg)
+![Anki-study](images/Anki-study.JPG)
 
 ### Anki's Fullscreen Window
 
@@ -124,15 +124,15 @@ ___
 
 ### Artifact Model
 
-![Artifact Model and Annotation](images/artifact-model-Anki.jpg)
+![Artifact Model and Annotation](images/artifact-model-Anki.JPG)
 
 ### Flow Model
 
-![Flow Model and Annotation](images/flow-model-Anki.jpg)
+![Flow Model and Annotation](images/flow-model-Anki.JPG)
 
 ### Cultural Model
 
-![Cultural Model and Annotation](images/cultural-model-Anki.jpg)
+![Cultural Model and Annotation](images/cultural-model-Anki.JPG)
 
 ## Do's and Don't's
 
