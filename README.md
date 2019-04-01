@@ -152,3 +152,10 @@ ___
 * Use fixed size window, because when user maximize window, it give a static layout (like a minimum scale window but with bigger scale)
 * Make complex documentation because unexperience user feels to complicated and don't want to read it
 * Combine _Create Deck_ button with _Add_ button (on same fields)
+
+# Remarks
+> * Overall this report are pretty well written. All the parts are complete, except for just one breakdown in `Flow Model` missed its line-number(s) referring to the problems recorded in the `Transcript`.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 5                | 0               | 90,5               | 82         | 88,8  |
